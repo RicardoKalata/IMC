@@ -1,0 +1,20 @@
+body{
+    background-color: beige;
+    font-style: normal;
+    font-size: 150%;
+    text-align: center;
+}
+  
+button {
+    box-shadow: 1px 1px 1px black;
+    margin: 2% auto;
+    width: 90px;
+    height: 25px;
+    
+
+}
+input {
+    width: 120px;
+    height: 22px;
+}
+    
